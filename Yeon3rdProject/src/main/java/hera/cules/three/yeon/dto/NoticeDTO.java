@@ -9,7 +9,7 @@ import lombok.Setter;
 @Setter
 
 public class NoticeDTO extends Criteria {
-	
+//커밋테스트	
 	private int num;
 	private String name;
 	private String subject;
